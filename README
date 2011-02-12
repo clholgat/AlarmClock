@@ -1,0 +1,1 @@
+This is an alarm clock app in GTK+, it will first be in C and then I'll port it to Common Lisp as part of learning Lisp with system calls and a GUI
